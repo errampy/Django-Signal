@@ -1,0 +1,1 @@
+default_app_config = 'SignalApp1.apps.Signalapp1Config'
